@@ -241,7 +241,9 @@ A: 请检查后端 `server.py` 是否正在运行，且端口 `8000` 未被防�
  <a href="https://github.com/RegentZai">
    <img src="https://github.com/RegentZai.png" width="60px;" alt="RegentZai"/>
  </a>
-
+ <a href="https://github.com/Lymtics-Aa">
+   <img src="https://github.com/RegentZai.png" width="60px;" alt="Lymtics-Aa"/>
+ </a>
 ## 贡献与联系
 
 欢迎提 Issue / PR。你可以先从修复文档、补充测试用例或完善后端实现开始。
